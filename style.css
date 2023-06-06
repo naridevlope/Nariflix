@@ -1,0 +1,157 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #00050d;
+}
+
+h1 img {
+    width: 400px;
+    height: 300px;
+}
+
+h1 img:hover {
+    transform: scale(1.5);
+    transition: 1s;
+}
+
+.caixa {
+    width: 100%;
+    position: relative;
+    background: #0a0808;
+}
+
+.cabeçalho {
+    position: absolute;
+    top: 15px;
+    right: 20%;
+    
+}
+
+.cabeçalho li {
+    display: inline;
+    margin: 0 0 0 30px;
+}
+
+.cabeçalho a {
+    text-transform: uppercase;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.cabeçalho a:hover {
+    color: #8f0303;
+    transition: 0.5s;
+    
+}
+
+.comediaromantica {
+    color: aliceblue;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 30px 60px;
+}
+
+.comediaromantica strong {
+    color: red;
+}
+
+.comediaromantica ul {
+    margin: 30px 0;
+    display: flex;
+}
+
+.comediaromantica li {
+    padding-right: 40px;
+    
+}
+
+.comediaromantica img {
+    border: 3px solid #8f0303;
+    height: 140px;
+    width:240px;
+    border-radius: 7%;
+
+}
+
+h3 {
+    font-size: 14px;
+}
+
+.comediaromantica li:hover {
+    transform: scale(1.3);
+    transition: 1s;
+}
+
+.acao {
+    color: aliceblue;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 30px 60px;
+}
+
+.acao strong {
+    color: red;
+}
+
+.acao ul {
+    margin: 30px 0;
+    display: flex;
+}
+
+.acao li {
+    padding-right: 40px;
+    
+}
+
+.acao img {
+    border: 3px solid #8f0303;
+    height: 140px;
+    width:240px;
+    border-radius: 7%;
+
+}
+
+.acao li:hover {
+    transform: scale(1.3);
+    transition: 1s;
+}
+
+.aventura {
+    color: aliceblue;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 30px 60px;
+}
+
+.aventura strong {
+    color: red;
+}
+
+.aventura ul {
+    margin: 30px 0;
+    display: flex;
+}
+
+.aventura li {
+    padding-right: 40px;
+    
+}
+
+.aventura img {
+    border: 3px solid #8f0303;
+    height: 140px;
+    width:240px;
+    border-radius: 7%;
+
+}
+
+.aventura li:hover {
+    transform: scale(1.3);
+    transition: 1s;
+}
+
+input {
+    border-radius: 1.5%;
+    
+}

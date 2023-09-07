@@ -76,6 +76,7 @@ h1 img:hover {
 
 h3 {
     font-size: 14px;
+    
 }
 
 .comediaromantica li:hover {
@@ -131,10 +132,12 @@ h3 {
 .aventura ul {
     margin: 30px 0;
     display: flex;
+
 }
 
 .aventura li {
     padding-right: 40px;
+    
     
 }
 
